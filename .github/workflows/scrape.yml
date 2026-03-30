@@ -1,0 +1,47 @@
+name: Scrape Armament Data
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run scraper
+        env:
+          ACLED_API_KEY: ${{ secrets.ACLED_API_KEY }}
+          ACLED_EMAIL: ${{ secrets.ACLED_EMAIL }}
+        run: npx tsx scripts/scraper.ts
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet public/data/tracking.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "Armament Scraper Bot"
+          git config user.email "scraper@armament-dashboard.local"
+          git add public/data/tracking.json
+          git commit -m "chore: update tracking data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
