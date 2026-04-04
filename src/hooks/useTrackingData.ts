@@ -7,7 +7,7 @@ export function useTrackingData() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('/data/tracking.json')
+    fetch(`${import.meta.env.BASE_URL}data/tracking.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`Failed to load tracking data: ${res.status}`);
         return res.json();
