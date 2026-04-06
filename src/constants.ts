@@ -28,5 +28,5 @@ export const ALL_CATEGORIES: Category[] = ['drones', 'missiles', 'defense'];
 
 export const DEFAULT_DATE_RANGE = {
   start: '2026-02-28',
-  end: '2026-03-29',
+  end: '2026-04-06',
 };

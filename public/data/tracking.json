@@ -13368,5 +13368,3141 @@
     "confidence": "medium",
     "context": "Apache gunship counter-drone operations - 4 engagements",
     "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-136",
+    "count": 20,
+    "countLow": 16,
+    "countHigh": 24,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-131",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-hadid-110",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fateh-313",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-kheibar-shekan",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-cruise",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-tomahawk",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-prsm",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-jdam",
+    "count": 22,
+    "countLow": 18,
+    "countHigh": 26,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "US",
+    "category": "drones",
+    "systemId": "us-mq9",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IL",
+    "category": "missiles",
+    "systemId": "il-air-strikes",
+    "count": 45,
+    "countLow": 36,
+    "countHigh": 54,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IL",
+    "category": "drones",
+    "systemId": "il-harop",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-patriot",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-thaad",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-sm3",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-dome",
+    "count": 25,
+    "countLow": 20,
+    "countHigh": 30,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-davids-sling",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-2",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-3",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-beam",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-thaad",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "UAE air defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-patriot",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "UAE air defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-cheongung",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "UAE air defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-30",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-apache",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "CENTCOM",
+      "ACLED"
+    ],
+    "confidence": "medium",
+    "context": "UAE air defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-136",
+    "count": 22,
+    "countLow": 18,
+    "countHigh": 26,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-131",
+    "count": 9,
+    "countLow": 7,
+    "countHigh": 11,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-hadid-110",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fateh-313",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-kheibar-shekan",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-cruise",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-tomahawk",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-prsm",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-jdam",
+    "count": 20,
+    "countLow": 16,
+    "countHigh": 24,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "US",
+    "category": "drones",
+    "systemId": "us-mq9",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IL",
+    "category": "missiles",
+    "systemId": "il-air-strikes",
+    "count": 42,
+    "countLow": 34,
+    "countHigh": 50,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-patriot",
+    "count": 14,
+    "countLow": 11,
+    "countHigh": 17,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-thaad",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-sm3",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-dome",
+    "count": 28,
+    "countLow": 22,
+    "countHigh": 34,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-davids-sling",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-2",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-3",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-beam",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-thaad",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "UAE air defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-patriot",
+    "count": 9,
+    "countLow": 7,
+    "countHigh": 11,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "UAE air defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-cheongung",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "UAE air defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-03-31",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-apache",
+    "count": 14,
+    "countLow": 11,
+    "countHigh": 17,
+    "sources": [
+      "ACLED",
+      "CSIS"
+    ],
+    "confidence": "medium",
+    "context": "UAE air defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-136",
+    "count": 28,
+    "countLow": 22,
+    "countHigh": 34,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-131",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-hadid-110",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fateh-313",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-kheibar-shekan",
+    "count": 6,
+    "countLow": 4,
+    "countHigh": 8,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fattah",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-cruise",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-tomahawk",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-prsm",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-jdam",
+    "count": 18,
+    "countLow": 14,
+    "countHigh": 22,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "US",
+    "category": "drones",
+    "systemId": "us-mq9",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IL",
+    "category": "missiles",
+    "systemId": "il-air-strikes",
+    "count": 40,
+    "countLow": 32,
+    "countHigh": 48,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-patriot",
+    "count": 15,
+    "countLow": 12,
+    "countHigh": 18,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-thaad",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-sm3",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-dome",
+    "count": 22,
+    "countLow": 18,
+    "countHigh": 26,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-davids-sling",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-2",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-3",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-beam",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-thaad",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 5 ballistic missiles and 35 UAVs intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-patriot",
+    "count": 6,
+    "countLow": 4,
+    "countHigh": 8,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 5 ballistic missiles and 35 UAVs intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-cheongung",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 5 ballistic missiles and 35 UAVs intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-01",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-apache",
+    "count": 18,
+    "countLow": 14,
+    "countHigh": 22,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 5 ballistic missiles and 35 UAVs intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-136",
+    "count": 30,
+    "countLow": 24,
+    "countHigh": 36,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-131",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-hadid-110",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fateh-313",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-kheibar-shekan",
+    "count": 6,
+    "countLow": 4,
+    "countHigh": 8,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fattah",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-cruise",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-tomahawk",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-prsm",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-jdam",
+    "count": 25,
+    "countLow": 20,
+    "countHigh": 30,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "US",
+    "category": "drones",
+    "systemId": "us-mq9",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US strike operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IL",
+    "category": "missiles",
+    "systemId": "il-air-strikes",
+    "count": 48,
+    "countLow": 38,
+    "countHigh": 58,
+    "sources": [
+      "IDF",
+      "JPost"
+    ],
+    "confidence": "high",
+    "context": "30 Iranian missiles crossed into Israel, 100 Hezbollah launches during Passover",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IL",
+    "category": "drones",
+    "systemId": "il-harop",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "IDF",
+      "JPost"
+    ],
+    "confidence": "high",
+    "context": "30 Iranian missiles crossed into Israel, 100 Hezbollah launches during Passover",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-patriot",
+    "count": 18,
+    "countLow": 14,
+    "countHigh": 22,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-thaad",
+    "count": 6,
+    "countLow": 4,
+    "countHigh": 8,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-sm3",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-dome",
+    "count": 35,
+    "countLow": 28,
+    "countHigh": 42,
+    "sources": [
+      "IDF",
+      "JPost"
+    ],
+    "confidence": "high",
+    "context": "30 Iranian missiles crossed into Israel, 100 Hezbollah launches during Passover",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-davids-sling",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "IDF",
+      "JPost"
+    ],
+    "confidence": "high",
+    "context": "30 Iranian missiles crossed into Israel, 100 Hezbollah launches during Passover",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-2",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "IDF",
+      "JPost"
+    ],
+    "confidence": "high",
+    "context": "30 Iranian missiles crossed into Israel, 100 Hezbollah launches during Passover",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-3",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "IDF",
+      "JPost"
+    ],
+    "confidence": "high",
+    "context": "30 Iranian missiles crossed into Israel, 100 Hezbollah launches during Passover",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-beam",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "IDF",
+      "JPost"
+    ],
+    "confidence": "high",
+    "context": "30 Iranian missiles crossed into Israel, 100 Hezbollah launches during Passover",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-thaad",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 19 ballistic missiles and 26 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-patriot",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 19 ballistic missiles and 26 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-cheongung",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 19 ballistic missiles and 26 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-02",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-apache",
+    "count": 15,
+    "countLow": 12,
+    "countHigh": 18,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 19 ballistic missiles and 26 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-136",
+    "count": 36,
+    "countLow": 29,
+    "countHigh": 43,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-131",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-hadid-110",
+    "count": 7,
+    "countLow": 5,
+    "countHigh": 9,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fateh-313",
+    "count": 14,
+    "countLow": 11,
+    "countHigh": 17,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-kheibar-shekan",
+    "count": 7,
+    "countLow": 5,
+    "countHigh": 9,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fattah",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-cruise",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "defense",
+    "systemId": "ir-bavar-373",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "Fars News",
+      "Al Jazeera"
+    ],
+    "confidence": "medium",
+    "context": "Iranian air defenses shot down US F-15E Strike Eagle",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "defense",
+    "systemId": "ir-s300",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "Fars News",
+      "Al Jazeera"
+    ],
+    "confidence": "medium",
+    "context": "Iranian air defenses shot down US F-15E Strike Eagle",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IR",
+    "category": "defense",
+    "systemId": "ir-khordad-15",
+    "count": 1,
+    "countLow": 1,
+    "countHigh": 3,
+    "sources": [
+      "Fars News",
+      "Al Jazeera"
+    ],
+    "confidence": "medium",
+    "context": "Iranian air defenses shot down US F-15E Strike Eagle",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-tomahawk",
+    "count": 15,
+    "countLow": 12,
+    "countHigh": 18,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Strikes expanded to bridges, Bushehr area, Mahshahr petrochemical zone",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-prsm",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Strikes expanded to bridges, Bushehr area, Mahshahr petrochemical zone",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-jdam",
+    "count": 30,
+    "countLow": 24,
+    "countHigh": 36,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Strikes expanded to bridges, Bushehr area, Mahshahr petrochemical zone",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "US",
+    "category": "drones",
+    "systemId": "us-mq9",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Strikes expanded to bridges, Bushehr area, Mahshahr petrochemical zone",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IL",
+    "category": "missiles",
+    "systemId": "il-air-strikes",
+    "count": 55,
+    "countLow": 44,
+    "countHigh": 66,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IL",
+    "category": "drones",
+    "systemId": "il-harop",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-patriot",
+    "count": 20,
+    "countLow": 16,
+    "countHigh": 24,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-thaad",
+    "count": 7,
+    "countLow": 5,
+    "countHigh": 9,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-sm3",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-dome",
+    "count": 30,
+    "countLow": 24,
+    "countHigh": 36,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-davids-sling",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-2",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-3",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-beam",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-thaad",
+    "count": 14,
+    "countLow": 11,
+    "countHigh": 17,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 18 ballistic, 4 cruise missiles and 47 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-patriot",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 18 ballistic, 4 cruise missiles and 47 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-cheongung",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 18 ballistic, 4 cruise missiles and 47 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-03",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-apache",
+    "count": 20,
+    "countLow": 16,
+    "countHigh": 24,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 18 ballistic, 4 cruise missiles and 47 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-136",
+    "count": 40,
+    "countLow": 32,
+    "countHigh": 48,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-131",
+    "count": 13,
+    "countLow": 10,
+    "countHigh": 16,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-hadid-110",
+    "count": 7,
+    "countLow": 5,
+    "countHigh": 9,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fateh-313",
+    "count": 13,
+    "countLow": 10,
+    "countHigh": 16,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-kheibar-shekan",
+    "count": 7,
+    "countLow": 5,
+    "countHigh": 9,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fattah",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-cruise",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-tomahawk",
+    "count": 14,
+    "countLow": 11,
+    "countHigh": 17,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Bushehr nuclear plant auxiliary building hit, Mahshahr petrochemical zone struck",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-prsm",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Bushehr nuclear plant auxiliary building hit, Mahshahr petrochemical zone struck",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-jdam",
+    "count": 28,
+    "countLow": 22,
+    "countHigh": 34,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Bushehr nuclear plant auxiliary building hit, Mahshahr petrochemical zone struck",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "US",
+    "category": "drones",
+    "systemId": "us-mq9",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Bushehr nuclear plant auxiliary building hit, Mahshahr petrochemical zone struck",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IL",
+    "category": "missiles",
+    "systemId": "il-air-strikes",
+    "count": 50,
+    "countLow": 40,
+    "countHigh": 60,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IL",
+    "category": "drones",
+    "systemId": "il-harop",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-patriot",
+    "count": 18,
+    "countLow": 14,
+    "countHigh": 22,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-thaad",
+    "count": 6,
+    "countLow": 4,
+    "countHigh": 8,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-sm3",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-dome",
+    "count": 28,
+    "countLow": 22,
+    "countHigh": 34,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-davids-sling",
+    "count": 9,
+    "countLow": 7,
+    "countHigh": 11,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-2",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-3",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-beam",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-thaad",
+    "count": 16,
+    "countLow": 13,
+    "countHigh": 19,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 23 ballistic missiles and 56 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-patriot",
+    "count": 14,
+    "countLow": 11,
+    "countHigh": 17,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 23 ballistic missiles and 56 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-cheongung",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 23 ballistic missiles and 56 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-04",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-apache",
+    "count": 22,
+    "countLow": 18,
+    "countHigh": 26,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 23 ballistic missiles and 56 drones intercepted",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-136",
+    "count": 35,
+    "countLow": 28,
+    "countHigh": 42,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-131",
+    "count": 13,
+    "countLow": 10,
+    "countHigh": 16,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-hadid-110",
+    "count": 7,
+    "countLow": 5,
+    "countHigh": 9,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded drone attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fateh-313",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-kheibar-shekan",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fattah",
+    "count": 1,
+    "countLow": 1,
+    "countHigh": 3,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-cruise",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Continued degraded missile attacks",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-tomahawk",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Rescued second F-15E crew member downed on Apr 3",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-prsm",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Rescued second F-15E crew member downed on Apr 3",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-jdam",
+    "count": 22,
+    "countLow": 18,
+    "countHigh": 26,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Rescued second F-15E crew member downed on Apr 3",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "US",
+    "category": "drones",
+    "systemId": "us-mq9",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Rescued second F-15E crew member downed on Apr 3",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IL",
+    "category": "missiles",
+    "systemId": "il-air-strikes",
+    "count": 42,
+    "countLow": 34,
+    "countHigh": 50,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli air operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-patriot",
+    "count": 15,
+    "countLow": 12,
+    "countHigh": 18,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-thaad",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-sm3",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "US missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-dome",
+    "count": 25,
+    "countLow": 20,
+    "countHigh": 30,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-davids-sling",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-2",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-3",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-beam",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "CENTCOM"
+    ],
+    "confidence": "medium",
+    "context": "Israeli missile defense operations",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-thaad",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 9 ballistic, 1 cruise missile and 50 drones intercepted. Borouge factory fires from debris.",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-patriot",
+    "count": 6,
+    "countLow": 4,
+    "countHigh": 8,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 9 ballistic, 1 cruise missile and 50 drones intercepted. Borouge factory fires from debris.",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-cheongung",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 9 ballistic, 1 cruise missile and 50 drones intercepted. Borouge factory fires from debris.",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-05",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-apache",
+    "count": 24,
+    "countLow": 19,
+    "countHigh": 29,
+    "sources": [
+      "UAE MoD",
+      "CENTCOM"
+    ],
+    "confidence": "high",
+    "context": "UAE MoD confirmed 9 ballistic, 1 cruise missile and 50 drones intercepted. Borouge factory fires from debris.",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-136",
+    "count": 26,
+    "countLow": 21,
+    "countHigh": 31,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-shahed-131",
+    "count": 9,
+    "countLow": 7,
+    "countHigh": 11,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IR",
+    "category": "drones",
+    "systemId": "ir-hadid-110",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-fateh-313",
+    "count": 9,
+    "countLow": 7,
+    "countHigh": 11,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-kheibar-shekan",
+    "count": 5,
+    "countLow": 3,
+    "countHigh": 7,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IR",
+    "category": "missiles",
+    "systemId": "ir-cruise",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-tomahawk",
+    "count": 10,
+    "countLow": 8,
+    "countHigh": 12,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-prsm",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "US",
+    "category": "missiles",
+    "systemId": "us-jdam",
+    "count": 20,
+    "countLow": 16,
+    "countHigh": 24,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "US",
+    "category": "drones",
+    "systemId": "us-mq9",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IL",
+    "category": "missiles",
+    "systemId": "il-air-strikes",
+    "count": 38,
+    "countLow": 30,
+    "countHigh": 46,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-patriot",
+    "count": 12,
+    "countLow": 10,
+    "countHigh": 14,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-thaad",
+    "count": 4,
+    "countLow": 2,
+    "countHigh": 6,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "US",
+    "category": "defense",
+    "systemId": "us-sm3",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-dome",
+    "count": 22,
+    "countLow": 18,
+    "countHigh": 26,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-davids-sling",
+    "count": 7,
+    "countLow": 5,
+    "countHigh": 9,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-2",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-arrow-3",
+    "count": 2,
+    "countLow": 1,
+    "countHigh": 4,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "IL",
+    "category": "defense",
+    "systemId": "il-iron-beam",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-thaad",
+    "count": 8,
+    "countLow": 6,
+    "countHigh": 10,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-patriot",
+    "count": 6,
+    "countLow": 4,
+    "countHigh": 8,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-cheongung",
+    "count": 3,
+    "countLow": 1,
+    "countHigh": 5,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
+  },
+  {
+    "date": "2026-04-06",
+    "country": "AE",
+    "category": "defense",
+    "systemId": "ae-apache",
+    "count": 16,
+    "countLow": 13,
+    "countHigh": 19,
+    "sources": [
+      "ACLED",
+      "Reuters"
+    ],
+    "confidence": "low",
+    "context": "Day 38 - estimated based on recent daily patterns",
+    "conflictId": "degraded-phase"
   }
 ]
