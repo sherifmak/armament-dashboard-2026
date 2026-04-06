@@ -2,8 +2,8 @@ name: Scrape Armament Data
 
 on:
   schedule:
-    # Run every 6 hours
-    - cron: '0 */6 * * *'
+    # Run daily at 23:00 UTC (end of day)
+    - cron: '0 23 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -23,9 +23,6 @@ jobs:
       - run: npm ci
 
       - name: Run scraper
-        env:
-          ACLED_API_KEY: ${{ secrets.ACLED_API_KEY }}
-          ACLED_EMAIL: ${{ secrets.ACLED_EMAIL }}
         run: npx tsx scripts/scraper.ts
 
       - name: Check for changes
